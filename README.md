@@ -1,34 +1,34 @@
-# Kalkulator Python Sederhana
+# Simple Python Calculator
 
-Kalkulator ini dibuat dengan Python dan mendukung operasi dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+This calculator is built with Python and supports basic operations such as addition, subtraction, multiplication, and division.
 
-## 📦 Fitur
+## 📦 Features
 
-- Penjumlahan
-- Pengurangan
-- Perkalian
-- Pembagian (dengan pengecekan pembagian nol)
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero division check)
 
-## 🛠️ Cara Menjalankan
+## 🛠️ How to Run
 
-1. Pastikan Python sudah terinstall. Cek dengan perintah:
+1. Make sure Python is installed. Check with the command:
    ```bash
    python --version
-   
-3. Jalankan program:
+
+2. Run the program:
    ```bash
-   python kalkulator.py
+    python calculator.py
 
-5. Ikuti petunjuk di terminal.
+3. Follow the prompts in the terminal.
 
-## 💡 Contoh Penggunaan
-  ```markdown
-  === Kalkulator Sederhana ===
-1. Tambah
-2. Kurang
-3. Kali
-4. Bagi
-Pilih operasi (1-4): 1
-Masukkan angka pertama: 5
-Masukkan angka kedua: 3
-Hasil: 8.0
+## 💡 Example Usage
+   ```markdown
+=== Simple Calculator ===
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Select operation (1-4): 1
+Enter first number: 5
+Enter second number: 3
+Result: 8.0
